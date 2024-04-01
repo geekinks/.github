@@ -1,8 +1,7 @@
 ![gitartwork](gitartwork.svg)
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=GEEk+INK;&center=true&width=380&height=45"></a>
-
+  ![](./logo.png)
 </p>
 
 GeekInk is a trailblazing force in technology education and empowerment, pioneering a vision of leveraging technology for positive societal change, particularly within the Northern region. Our mission is to serve as the catalyst for tech empowerment, ensuring every individual in our community has the tools and opportunities to excel in the digital era.
