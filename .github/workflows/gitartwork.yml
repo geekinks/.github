@@ -14,5 +14,5 @@
             # Use this username's contribution graph  
             user_name: AdamsGeeky
             # Text on contribution graph 
-            text: GEEK. INK
+            text: GEEK.INK
        - uses: jasineri/simple-push-action@v1
