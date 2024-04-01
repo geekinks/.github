@@ -1,10 +1,14 @@
 ![gitartwork](gitartwork.svg)
 
+
+
+
 <p align="center">
   
   ![](./logo.png)
 
 </p>
+
 
 GeekInk is a trailblazing force in technology education and empowerment, pioneering a vision of leveraging technology for positive societal change, particularly within the Northern region. Our mission is to serve as the catalyst for tech empowerment, ensuring every individual in our community has the tools and opportunities to excel in the digital era.
 
