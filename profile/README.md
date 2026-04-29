@@ -1,12 +1,7 @@
-![gitartwork](gitartwork.svg)
-
-
-
-
 <p align="center">
   
   ![](./logo.jpg)
-
+  
 </p>
 
 
