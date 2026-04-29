@@ -5,7 +5,7 @@
 
 <p align="center">
   
-  ![](./logo.png)
+  ![](./logo.jpg)
 
 </p>
 
